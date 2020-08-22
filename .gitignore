@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+*~ core
+*.core
+moc_predefs.h
+moc_window.cpp
